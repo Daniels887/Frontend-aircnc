@@ -1,6 +1,6 @@
 # Frontend-aircnc
 
-## Projeto desenvolvido na semana Omnistack
+## Projeto desenvolvido na semana Omnistack da Rocketseat
 
 Utilizand os conceitos de React.js, com axios, localStorage, hooks e formData
 
