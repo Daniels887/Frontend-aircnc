@@ -2,7 +2,7 @@
 
 ## Projeto desenvolvido na semana Omnistack da Rocketseat
 
-<img src="https://github.com/Daniels887/Frontend-aircnc/blob/master/Telas/Home.PNG" alt="Home" width="800" height="400" /> <img src="https://github.com/Daniels887/Frontend-aircnc/blob/master/Telas/List.PNG" alt="List" width="800" height="400" /> <img src="https://github.com/Daniels887/Frontend-aircnc/blob/master/Telas/New.PNG" alt="New" width="800" height="400" />
+<img src="https://github.com/Daniels887/Frontend-aircnc/blob/master/Telas/Home.PNG" alt="Home" width="850" height="400" /> <img src="https://github.com/Daniels887/Frontend-aircnc/blob/master/Telas/List.PNG" alt="List" width="850" height="400" /> <img src="https://github.com/Daniels887/Frontend-aircnc/blob/master/Telas/New.PNG" alt="New" width="850" height="400" />
 
 ### Front-end com ReactJS
 
