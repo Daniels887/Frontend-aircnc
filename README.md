@@ -2,6 +2,11 @@
 
 ## Projeto desenvolvido na semana Omnistack da Rocketseat
 
-Utilizand os conceitos de React.js, com axios, localStorage, hooks e formData
+### Front-end com ReactJS
+
+- React Hooks
+- LocalStorage
+- Axios
+- FormData
 
 > Que a força esteja com você
