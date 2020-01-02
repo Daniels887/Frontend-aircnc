@@ -2,6 +2,13 @@
 
 ## Projeto desenvolvido na semana Omnistack da Rocketseat
 
-Utilizand os conceitos de React.js, com axios, localStorage, hooks e formData
+<img src="https://github.com/Daniels887/Frontend-aircnc/blob/master/Telas/Home.PNG" alt="Home" width="865" height="400" /> <img src="https://github.com/Daniels887/Frontend-aircnc/blob/master/Telas/List.PNG" alt="List" width="865" height="400" /> <img src="https://github.com/Daniels887/Frontend-aircnc/blob/master/Telas/New.PNG" alt="New" width="865" height="400" />
+
+### Front-end com ReactJS
+
+- React Hooks
+- LocalStorage
+- Axios
+- FormData
 
 > Que a força esteja com você
